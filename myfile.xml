@@ -1,0 +1,12 @@
+<persona>
+    <nombres>
+        juan
+    <nombres/>
+    <apellido>
+        Galindo
+    <apellido/>
+    <edad>21</edad>
+    <direccion>
+        av. siempre viva #123
+    <direccion/>
+<persona/>
